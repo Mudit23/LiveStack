@@ -17,7 +17,7 @@ const __dirname = path.resolve();
 
 app.use(
   cors({
-    origin: "https://livestack.onrender.com",
+    origin: "https://livestack1.onrender.com",
     credentials: true, // allow frontend to send cookies
   })
 );
